@@ -1,0 +1,27 @@
+html 
+{
+    font-family: 'Josefin Slab', serif;
+background-color: rgb(165, 145, 131);
+
+
+  }
+  p, h1, li, a
+  {
+    color: rgb(122, 69, 0);
+  }
+  body {
+    width: 600px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgb(122, 69, 0);
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
